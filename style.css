@@ -1,4 +1,43 @@
 body {
     background-color: rgba(46, 43, 43, 0.963);
-    color: blueviolet;
+    color: aquamarine;
+    a:
+}
+
+#section-html {
+    height: 300px;
+    
+}
+
+#section-css {
+    height: 300px;
+}
+
+#section-javascript {
+    height: 300px;
+}
+
+#section-tools {
+    height: 300px;
+}
+
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: chartreuse;
 }
