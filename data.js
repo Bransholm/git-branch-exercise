@@ -3,5 +3,10 @@
 window.addEventListener("load", startApp);
 
 function startApp() {
-    console.log("Javascript kører")
+    console.log("Javascript kører");
+    andenFunktion()
+}
+
+function andenFunktion() {
+    console.log("anden funktion");
 }
