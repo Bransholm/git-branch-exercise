@@ -15,3 +15,7 @@ function andenFunktion() {
 function tredjeFunktion() {
     console.log("Tredje funktion")
 }
+
+function fjerdeFunktion() {
+    console.log("Fjerde funktion");
+}
