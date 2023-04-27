@@ -1,2 +1,7 @@
 "use strict"
-console.log("Hi Javascript");
+
+window.addEventListener("load", startApp);
+
+function startApp() {
+    console.log("Javascript kører")
+}
